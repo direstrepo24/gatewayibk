@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ibk.gatewayibk",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.4",
+    "applicationType": "gateway",
+    "baseName": "gatewayibk",
+    "packageName": "com.ibk.gatewayibk",
+    "packageFolder": "com/ibk/gatewayibk",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZTNlZWJlMTJkOGU0ZjQ1NmU5MzdlMmYwYzA2NDkyM2Q5M2EzYTExNmFlNTg3MGJiZmJlZWJiMDdlZjExODYzNjEwMmFhODlkMWU0ZDQ4MTA5YWQ0ZGRlMDBmMzVjYWVhM2NkNDI2MDljYjU0MWU4YTljNTkwMWUzMTNiOWQwYTE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1604110892915,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "es"],
+    "blueprints": []
+  }
+}
